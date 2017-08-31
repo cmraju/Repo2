@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC48-B5BC
+
+ Directory of C:\Users\CHANDRA MOHAN\Desktop\raju
+
+08/31/2017  10:20 PM    <DIR>          .
+08/31/2017  10:20 PM    <DIR>          ..
+08/31/2017  10:20 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  34,615,787,520 bytes free
